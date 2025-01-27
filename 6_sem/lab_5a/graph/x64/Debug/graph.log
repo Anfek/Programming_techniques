@@ -1,0 +1,4 @@
+﻿  graph-a.cpp
+D:\Anfek\OneDrive\Документы\Методы программирования\lab_5a\graph\graph-a.h(1,9): warning C4068: неизвестная прагма "onse"
+D:\Anfek\OneDrive\Документы\Методы программирования\lab_5a\graph\graph.h(1,9): warning C4068: неизвестная прагма "onse"
+  graph.vcxproj -> D:\Anfek\OneDrive\Документы\Методы программирования\lab_5a\graph\x64\Debug\graph.exe
